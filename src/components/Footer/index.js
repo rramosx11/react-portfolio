@@ -14,6 +14,16 @@ function Footer() {
               <VscGithubAlt />
             </li>
           </a>
+          <a href="https://www.linkedin.com/in/rodolfo-ramos-713202181/">
+            <li className="logo">
+              <AiOutlineLinkedin />
+            </li>
+          </a>
+          <a href="https://www.instagram.com/rrodo_/">
+            <li className="logo">
+              <FaInstagram />
+            </li>
+          </a>
         </ul>
       </p>
     </footer>
