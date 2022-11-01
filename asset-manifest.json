@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.0a5357dd.css",
-    "main.js": "/react-portfolio/static/js/main.bb592e69.js",
+    "main.js": "/react-portfolio/static/js/main.062f8bad.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Event Finder.png": "/react-portfolio/static/media/Event Finder.6492b76fa3c1a3e0e1a3.png",
     "static/media/pawfect-friends.png": "/react-portfolio/static/media/pawfect-friends.d1d83f47744f4f4a9cf8.png",
@@ -12,11 +12,11 @@
     "static/media/RRamosResume2.1.docx - Google Docs.pdf": "/react-portfolio/static/media/RRamosResume2.1.docx - Google Docs.7f4df4c16a1ce83e75b9.pdf",
     "index.html": "/react-portfolio/index.html",
     "main.0a5357dd.css.map": "/react-portfolio/static/css/main.0a5357dd.css.map",
-    "main.bb592e69.js.map": "/react-portfolio/static/js/main.bb592e69.js.map",
+    "main.062f8bad.js.map": "/react-portfolio/static/js/main.062f8bad.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a5357dd.css",
-    "static/js/main.bb592e69.js"
+    "static/js/main.062f8bad.js"
   ]
 }
