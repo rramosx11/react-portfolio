@@ -17,8 +17,8 @@ function About() {
             I am Rodolfo, an aspiring full-stack web developer. I graduated from
             Catawba College with a Business Admintration degree with a minor in
             Information Systems. I am learning full stack to build on my
-            background in information system so that I can do what I enjoy doing
-            as a profession. I'm a team member and adaptive at learning
+            background in information system so that I can do what I enjoy
+            coding as profession. I'm a team member and adaptive at learning
             resources, which guides me to always be prepared to reach a
             resolution in a group or independently.
           </p>
