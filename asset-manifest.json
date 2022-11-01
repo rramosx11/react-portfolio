@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rramosx11/react-portfolio/static/css/main.0a5357dd.css",
+    "main.js": "/rramosx11/react-portfolio/static/js/main.b3f124d9.js",
+    "static/js/787.a2cb61a6.chunk.js": "/rramosx11/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Event Finder.png": "/rramosx11/react-portfolio/static/media/Event Finder.6492b76fa3c1a3e0e1a3.png",
+    "static/media/pawfect-friends.png": "/rramosx11/react-portfolio/static/media/pawfect-friends.d1d83f47744f4f4a9cf8.png",
+    "static/media/Weather Dashboard 2.png": "/rramosx11/react-portfolio/static/media/Weather Dashboard 2.5a8fa21ab4d72f29bc7c.png",
+    "static/media/code-quiz home.png": "/rramosx11/react-portfolio/static/media/code-quiz home.02897880972be0b23479.png",
+    "static/media/Note-Taker Screenshot.png": "/rramosx11/react-portfolio/static/media/Note-Taker Screenshot.272ed3e1b4307d28e09f.png",
+    "static/media/rodolforamos2.jpg": "/rramosx11/react-portfolio/static/media/rodolforamos2.08240d8741de41de70e7.jpg",
+    "static/media/RRamosResume2.1.docx - Google Docs.pdf": "/rramosx11/react-portfolio/static/media/RRamosResume2.1.docx - Google Docs.7f4df4c16a1ce83e75b9.pdf",
+    "index.html": "/rramosx11/react-portfolio/index.html",
+    "main.0a5357dd.css.map": "/rramosx11/react-portfolio/static/css/main.0a5357dd.css.map",
+    "main.b3f124d9.js.map": "/rramosx11/react-portfolio/static/js/main.b3f124d9.js.map",
+    "787.a2cb61a6.chunk.js.map": "/rramosx11/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5357dd.css",
+    "static/js/main.b3f124d9.js"
+  ]
+}
