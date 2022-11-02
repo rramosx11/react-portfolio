@@ -8,10 +8,10 @@ Created a simple text editor app that can function both online and offline. The 
 
 I have included a link to download my demo video as well as a link to the video on youtube.
 
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.13%20AM.png) <br>
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.33%20AM.png) <br>
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.48%20AM.png) <br>
-![Screenshot](https://github.com/rramosx11/Text-Editor/blob/main/assets/images/Screen%20Shot%202022-10-14%20at%204.24.52%20AM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.30%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.33%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.36%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.38%20PM.png) <br>
 
 ## Table-of-Contents
 
