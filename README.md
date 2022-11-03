@@ -8,10 +8,10 @@ Created a simple text editor app that can function both online and offline. The 
 
 I have included a link to download my demo video as well as a link to the video on youtube.
 
-![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.30%20PM.png) <br>
-![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.33%20PM.png) <br>
-![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.36%20PM.png) <br>
-![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-01%20at%206.09.38%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-02%20at%207.58.53%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-02%20at%207.59.14%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-02%20at%207.59.26%20PM.png) <br>
+![Screenshot](https://github.com/rramosx11/react-portfolio/blob/feature/footer/src/assets/screenshots/Screen%20Shot%202022-11-02%20at%207.59.39%20PM.png) <br>
 
 ## Table-of-Contents
 
