@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.0a5357dd.css",
-    "main.js": "/react-portfolio/static/js/main.11c9a0a6.js",
+    "main.js": "/react-portfolio/static/js/main.4b0bb902.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Event Finder.png": "/react-portfolio/static/media/Event Finder.6492b76fa3c1a3e0e1a3.png",
     "static/media/player-up.png": "/react-portfolio/static/media/player-up.33902edbe35bb214f553.png",
@@ -10,14 +10,14 @@
     "static/media/code-quiz home.png": "/react-portfolio/static/media/code-quiz home.02897880972be0b23479.png",
     "static/media/Note-Taker Screenshot.png": "/react-portfolio/static/media/Note-Taker Screenshot.272ed3e1b4307d28e09f.png",
     "static/media/rodolforamos2.jpg": "/react-portfolio/static/media/rodolforamos2.08240d8741de41de70e7.jpg",
-    "static/media/RRamosResume2.1.docx - Google Docs.pdf": "/react-portfolio/static/media/RRamosResume2.1.docx - Google Docs.7f4df4c16a1ce83e75b9.pdf",
+    "static/media/RRamosResumeNov2022.docx2.pdf": "/react-portfolio/static/media/RRamosResumeNov2022.docx2.a40a034d90ddc128e7c8.pdf",
     "index.html": "/react-portfolio/index.html",
     "main.0a5357dd.css.map": "/react-portfolio/static/css/main.0a5357dd.css.map",
-    "main.11c9a0a6.js.map": "/react-portfolio/static/js/main.11c9a0a6.js.map",
+    "main.4b0bb902.js.map": "/react-portfolio/static/js/main.4b0bb902.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a5357dd.css",
-    "static/js/main.11c9a0a6.js"
+    "static/js/main.4b0bb902.js"
   ]
 }
